@@ -1,0 +1,47 @@
+
+*{
+	padding:2;
+	margin: 2;
+}
+h1 {
+	text-align:center;
+	background-color:orange;
+	color:black;
+	padding:20px;
+
+}
+
+img{
+	width:170px;
+	height:140px;
+}
+video{
+	border:2px solid orange;
+	margin-top:20px;
+	border-radius: 40px;
+	position:end;
+}
+
+.container{
+	margin:80px;
+	padding:5px;
+	background-color: white;
+	border:2px solid black;
+}
+.box{
+	padding:10px;
+	background-color:lighblue;
+	border:5px solid orange;
+	margin-bottom:5px;
+	
+
+nav a{
+	text-decoration: black;
+	color: black;
+	padding:10px;
+	width:100px;
+}
+
+
+	
+	
